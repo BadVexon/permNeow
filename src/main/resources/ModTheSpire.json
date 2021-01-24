@@ -1,0 +1,13 @@
+{
+  "modid": "permNeow",
+  "name": "Permanent Neow",
+  "author_list": ["DarkVexon"],
+  "description": "Forces Neow to give you the 4 options every run.",
+  "version": "1",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "credits": "Literally just me, Vex.",
+  "dependencies": ["basemod"],
+  "update_json": ""
+}
+
